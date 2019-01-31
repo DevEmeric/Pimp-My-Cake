@@ -12,7 +12,9 @@ the data comes from an array(recipe being made) in a reducer.
 
 //front/src/Containers/Admin/DatabaseIngredient/ModifyIngredient.jsx // it's a form that is being displayed after a button click, shown in
 the admin ingredient database. the component receives the ingredient property via props. The submit is made with axios call at the
-Node corresponding route, wich make an update of the database with a MySql request.
+Node corresponding route (//back/routes/ingredients.js), wich make an update of the database with a MySql request.
+
+
 
 
 
