@@ -3,8 +3,9 @@ This project is about making a web app for a CoffeeShop, in wich customers can e
 The front part is made with React, Redux for managing global states, in this case all of the ingredients, 
 compatibility between them, customers info... 
 
+
 Multiple reducers fetches the DBB in MySql, with our backend made with Node.
-I worked (and still working:) more specifically on :
+I worked more specifically on :
 
 //front/src/Containers/Public/IngredientsChoice/CakeInProgress.jsx // where i made the view where the cake is being prepared.
 The component display the ingredients that are being clicked, and place them accordingly (ex: 'Base chocolat, creme chocolat, fraise...')
