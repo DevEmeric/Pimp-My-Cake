@@ -3,6 +3,9 @@ This project is about making a web app for a CoffeeShop, in wich customers can e
 The front part is made with React, Redux for managing global states, in this case all of the ingredients, 
 compatibility between them, customers info... 
 
+Currently there is an almost finished version released at 
+
+https://www.pimpmycake.fr/mycake
 
 Multiple reducers fetches the DBB in MySql, with our backend made with Node.
 I worked more specifically on :
