@@ -18,6 +18,8 @@ the data comes from an array(recipe being made) in a reducer.
 the admin ingredient database. the component receives the ingredient property via props. The submit is made with axios call at the
 Node corresponding route (//back/routes/ingredients.js), wich make an update of the database with a MySql request.
 
+![alt text](https://github.com/DevEmeric/Pimp-My-Cake/blob/master/Screenshot%20from%202019-02-14%2011-54-19.png)
+
 
 
 
